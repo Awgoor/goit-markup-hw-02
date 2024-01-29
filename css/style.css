@@ -4,18 +4,11 @@ body {
     color: #434455
  }
 
-h1, h2, h3, h4, h5, h6 { font-family: Roboto,
-    sans-serif;}
-
 /* Header */
 
 .header {
     border-bottom: 1px, #E7E9FC;
     background: #FFF;
-    width: 1440px;
-    height: 72px;
-    flex-shrink: 0;
-    flex-direction: row;
 } 
 
 /* logotip */
@@ -70,11 +63,11 @@ ul {
 }
 .main-title {
     color: #FFF;
-        text-align: center;
-        font-size: 56px;
-        font-weight: 700;
-        letter-spacing: 1.12px;
-        line-height: 1.07;
+    text-align: center;
+    font-size: 56px;
+    font-weight: 700;
+    letter-spacing: 1.12px;
+    line-height: 1.07;
 }
 .order-button {
     background-color:#4D5AE5;
