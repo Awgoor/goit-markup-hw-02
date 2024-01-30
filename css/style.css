@@ -1,6 +1,6 @@
 body {
     color:#434455;
-    background-color: #FFF;
+    background-color: #FFFFFF;
     font-family: Roboto, sans-serif;
 }
  
@@ -9,7 +9,7 @@ body {
 
 .header {
     border-bottom: 1px, #E7E9FC;
-    background: #FFF;
+    background: #FFFFFF;
 } 
 
 /* logotip */
@@ -36,7 +36,7 @@ ul {
     color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     line-height: 1.5;
     text-decoration: none;
 }
@@ -49,13 +49,12 @@ ul {
     color:  #434455;
     font-size: 16px;
     font-weight: 400;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
     line-height: 1.5;
 }
 
 .address-link-item .address-link-subtitle:hover {color:#404bbf}
 .address-link-item .address-link-subtitle:focus {color: #404bbf}
-.address-link-item .address-link-subtitle:active {color: #404bbf}
 
 /* Busines */
 
@@ -63,16 +62,17 @@ ul {
     background-color: #2E2F42;
 }
 .main-title {
-    color: #FFF;
+    color: #FFFFFF;
     text-align: center;
     font-size: 56px;
     font-weight: 700;
-    letter-spacing: 1.12px;
+    letter-spacing: 0.02em;
     line-height: 1.07;
 }
 .order-button {
     background-color:#4D5AE5;
     color: #FFF;
+    font-family: Roboto, sans-serif;
     font-size: 16px;
     font-weight: 500;
     letter-spacing: 0.64px;
@@ -122,6 +122,10 @@ ul {
     letter-spacing: 0.4px;
 }
 
+.team-list-item {
+    background-color: #FFFFFF;
+}
+
 .team-text {
     color: #434455;
     text-align: center;
@@ -143,6 +147,10 @@ ul {
     line-height: 1.11;
     letter-spacing: 0.72px;
     text-transform: capitalize;
+}
+
+.portfolio-list-item {
+    background-color: #FFFFFF;
 }
 
 .portfolio-title-item {
