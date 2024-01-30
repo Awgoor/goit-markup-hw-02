@@ -8,7 +8,6 @@ body {
 /* Header */
 
 .header {
-    border-bottom: 1px, #E7E9FC;
     background: #FFFFFF;
 } 
 
@@ -25,7 +24,7 @@ body {
 
 }
 .logo-top {
-   color: #2E2F42;
+    color: #2E2F42;
 }
 
 ul {
@@ -71,11 +70,11 @@ ul {
 }
 .order-button {
     background-color:#4D5AE5;
-    color: #FFF;
+    color: #FFFFFF;
     font-family: Roboto, sans-serif;
     font-size: 16px;
     font-weight: 500;
-    letter-spacing: 0.64px;
+    letter-spacing: 0.04em;
     line-height: 1.5;
     cursor: pointer;
 }
@@ -90,14 +89,14 @@ ul {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em
 }
 .text {
     color: #434455;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 } 
 
 /* Our team */
@@ -109,8 +108,8 @@ ul {
     text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.1;
-    letter-spacing: 0.72px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 .team-title-item {
@@ -119,12 +118,11 @@ ul {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 .team-list-item {
-    background-color: #FFFFFF;
-}
+    background-color: #F4F4FD}
 
 .team-text {
     color: #434455;
@@ -132,7 +130,7 @@ ul {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 /* Portfolio */
@@ -145,7 +143,7 @@ ul {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
@@ -158,7 +156,7 @@ ul {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.02em;
 }
 
 .portfolio-text {
@@ -166,7 +164,7 @@ ul {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
-    letter-spacing: 0.32px;
+    letter-spacing: 0.02em;
 }
 
 /* Footer */
@@ -186,7 +184,7 @@ ul {
 }
 
 .logo-top {
-    color: #2E2F42;
+    color: #f4f4fd;
 }
 .copyright-text {
     color: #F4F4FD;
@@ -195,3 +193,4 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+ 
